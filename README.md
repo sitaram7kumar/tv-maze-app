@@ -8,11 +8,10 @@ This project is developed using Vue3 (CLI3) as the framework and added custome C
 # Vue CLI 3 some cool features 
 - Composition API
 - Fragments
-- Suspense
+- Suspense boundary
   - default
   - fallback
 - Portals
-- sespence boundry 
 
 # How to run the project
 
