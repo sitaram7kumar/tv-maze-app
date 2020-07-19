@@ -1,27 +1,26 @@
 # tv-maze-app
-It's a pretty small project to search tv shows. Also we can get more information of show in detail.
+It's a pretty small project to search tv shows based on the TVMAze API. Also we can get more information of show in detail.
+This project is developed using Vue3 (CLI3) as the framework and added custome CSS.
+- This project is bootstrapped with VUE CLI - 3 (vue Create App && Vue add vue-next).
+- Axios is used for REST calls.
+- Single Search API is used for search input.
 
-# Prerequisites
-Before you continue, ensure you have met the following requirements:
-Node.js
+# Vue CLI 3 some cool features 
+- Composition API
+- Fragments
+- Suspense
+  - default
+  - fallback
+- Portals
+- sespence boundry 
 
-## Project setup
-```
-npm install
-```
-npm run serve
-```
+# How to run the project
 
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Development
-Developed using VUE CLI 3 ( Composition API ), Added some custom CSS.
-There is a lot of work to do
+1) Install the dependencies
+    ```console
+    npm install
+    ```
+2) Run the server
+    ```
+    npm run serve
+    ```
