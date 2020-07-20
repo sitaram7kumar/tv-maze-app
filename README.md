@@ -5,7 +5,7 @@ This project is developed using Vue3 (CLI3) as the framework and added custome C
 - Axios is used for REST calls.
 - Single Search API is used for search input.
 
-# Vue CLI 3 some cool features 
+# Some cool features of Vue CLI 3
 - Composition API
 - Fragments
 - Suspense boundary
